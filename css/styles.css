@@ -88,11 +88,11 @@ input {
   text-decoration: none;
 }
 
-/*.wrong:active {
-	text-decoration: none;
+.wrong:active {
+  text-decoration: none;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
