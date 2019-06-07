@@ -75,10 +75,11 @@ input {
   margin-left: -5px;
 }
 
-/*.header {
-	text-align: center;
+.header {
+  text-align: center;
 }
-.wrong {
+
+/*.wrong {
 	cursor: no-drop;
 	text-decoration: none;
 }
