@@ -79,12 +79,12 @@ input {
   text-align: center;
 }
 
-/*.wrong {
-	cursor: no-drop;
-	text-decoration: none;
+.wrong {
+  cursor: no-drop;
+  text-decoration: none;
 }
 
-.wrong:hover {
+/*.wrong:hover {
 	text-decoration: none;
 }
 
