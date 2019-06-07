@@ -84,11 +84,11 @@ input {
   text-decoration: none;
 }
 
-/*.wrong:hover {
-	text-decoration: none;
+.wrong:hover {
+  text-decoration: none;
 }
 
-.wrong:active {
+/*.wrong:active {
 	text-decoration: none;
 }
 
