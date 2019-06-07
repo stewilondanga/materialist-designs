@@ -71,11 +71,11 @@ input {
   background-color: #f0f0f0;
 }
 
-/*.container img {
-	margin-left: -5px;
+.container img {
+  margin-left: -5px;
 }
 
-.header {
+/*.header {
 	text-align: center;
 }
 .wrong {
