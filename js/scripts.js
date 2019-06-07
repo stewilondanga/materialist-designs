@@ -7,9 +7,9 @@ var navigate = (function() {
   });
 })();
 
-/*$("#submit").click(function() {
-	 $('.container').animate({
-            height: 'toggle'
-        });
-	$('.ty').fadeIn(500);
+$("#submit").click(function() {
+  $('.container').animate({
+    height: 'toggle'
+  });
+  $('.ty').fadeIn(500);
 })
