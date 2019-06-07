@@ -36,16 +36,16 @@ body {
   border-radius: 2px;
 }
 
-/*#submit {
-	background-color: #27A4DD;
-	color: #ffffff;
-	border: 0px;
-	padding: 10px 30px;
-	border-radius: 5px;
-	width: 90%;
+#submit {
+  background-color: #27A4DD;
+  color: #ffffff;
+  border: 0px;
+  padding: 10px 30px;
+  border-radius: 5px;
+  width: 90%;
 }
 
-.ty {
+/*.ty {
 	text-align: center;
 	margin: 50px auto;
 	width: 15%;
