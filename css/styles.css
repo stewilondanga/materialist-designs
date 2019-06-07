@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,83 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+html {
+	height: 100%;
+	background-color: #27A4DD;
+}
+
+body {
+	background-color: transparent;
+	font-family: "Roboto", sans-serif;
+	background-color: #27A4DD;
+}
+
+.container {
+	text-align: center;
+	margin-top: 30px;
+	width: 350px;
+	padding: 20px;
+	background-color: #fff;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  border-radius: 2px;
+}
+
+#submit {
+	background-color: #27A4DD;
+	color: #ffffff;
+	border: 0px;
+	padding: 10px 30px;
+	border-radius: 5px;
+	width: 90%;
+}
+
+.ty {
+	text-align: center;
+	margin: 50px auto;
+	width: 15%;
+	padding: 20px;
+	background-color: #fff;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  border-radius: 2px;
+	display: none;
+}
+.tyo {
+	display: block;
+}
+
+input {
+	border: 0;
+	padding: 5px;
+	border-radius: 5px;
+	width: 90%;
+	height: 35px;
+	margin: 10px;
+	text-align: center;
+	background-color: #f0f0f0;
+}
+
+.container img {
+	margin-left: -5px;
+}
+
+.header {
+	text-align: center;
+}
+.wrong {
+	cursor: no-drop;
+	text-decoration: none;
+}
+
+.wrong:hover {
+	text-decoration: none;
+}
+
+.wrong:active {
+	text-decoration: none;
 }
 
 .containers {
