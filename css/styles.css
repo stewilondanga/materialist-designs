@@ -26,17 +26,17 @@ body {
   height: 1.5em;
 }
 
-/*.container {
-	text-align: center;
-	margin-top: 30px;
-	width: 350px;
-	padding: 20px;
-	background-color: #fff;
-	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+.container {
+  text-align: center;
+  margin-top: 30px;
+  width: 350px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
   border-radius: 2px;
 }
 
-#submit {
+/*#submit {
 	background-color: #27A4DD;
 	color: #ffffff;
 	border: 0px;
