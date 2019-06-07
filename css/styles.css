@@ -56,11 +56,11 @@ body {
   display: none;
 }
 
-/*.tyo {
-	display: block;
+.tyo {
+  display: block;
 }
 
-input {
+/*input {
 	border: 0;
 	padding: 5px;
 	border-radius: 5px;
